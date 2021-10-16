@@ -1,0 +1,42 @@
+.preview_body{
+  display: flex;
+}
+.side_bar{
+  padding: 30px;
+  flex: 0.9;
+  color: white;
+  align-items:center;
+}
+.my_body{
+  color: white;
+  flex: 0.3;
+  min-width: 230px;
+  padding: 30px 0;
+  align-items:center;
+}
+.my_body h1{
+  padding-top:30px;
+}
+.hero{
+  background: linear-gradient(rgb(115, 103, 87),black);
+}
+.my_preview{
+  background: rgb(34, 34, 34);
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.grid-container > div {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
+.grid-container > div img {
+ width: 80px;
+ border-top-left-radius: 5px;
+ border-bottom-left-radius: 5px;
+}
+
