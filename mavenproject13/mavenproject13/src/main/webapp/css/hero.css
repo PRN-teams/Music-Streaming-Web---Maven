@@ -1,7 +1,7 @@
 
 .hero {
-    position: relative;
-   
+  position: relative;
+
 }
 
 .hero-content {
@@ -11,13 +11,13 @@
 }
 
 .hero-title {
-    font-size: 5rem;
-    color: #78b300;
-    text-align: center;
-    font-weight: 700;
-    margin-bottom: 4rem;
-    line-height: 5rem;
-    letter-spacing: -0.3rem;
+  font-size: 5rem;
+  color: #78b300;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 4rem;
+  line-height: 5rem;
+  letter-spacing: -0.3rem;
 }
 
 .hero-button {

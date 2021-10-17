@@ -35,8 +35,8 @@
   border-radius: 5px;
 }
 .grid-container > div img {
- width: 80px;
- border-top-left-radius: 5px;
- border-bottom-left-radius: 5px;
+  width: 80px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 
