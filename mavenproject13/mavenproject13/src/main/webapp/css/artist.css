@@ -17,10 +17,10 @@
     align-items: center;
     justify-content: space-between;
 }
-.side_bar_home>hr{
-    border:1px solid rgb(133, 130, 130) ;
-    margin:10px auto;
-}
+    .side_bar_home>hr{
+        border:1px solid rgb(133, 130, 130) ;
+        margin:10px auto;
+    }
 .sidebar_tittle{
     margin-left: 10px;
     padding: 5px;
@@ -35,9 +35,9 @@
     flex: 0.8;
     background: linear-gradient(rgb(38, 82, 122),black);
 }
-.colection_body::-webkit-scrollbar{
+  .colection_body::-webkit-scrollbar{
     display: none;
-}
+  }
 .player_body{
     display:flex;
 }
@@ -76,9 +76,9 @@
     margin-top:10px;
 }
 .sidebar_option > p {
-    margin-top:10px;
-    margin-left:20px;
-}
+       margin-top:10px;
+       margin-left:20px;
+    }
 .sidebar_option{
     margin-left:10px;
     padding:5px;
@@ -152,10 +152,10 @@
     color:white;
 }
 .body_info>img {
-    height:19vw;
-    margin:0 20px;
-    box-shadow: 0 4px 60px #272727;
-    border-radius: 50%;
+   height:19vw;
+   margin:0 20px;
+   box-shadow: 0 4px 60px #272727;
+   border-radius: 50%;
 }
 .body_info_text>h2 {
     font-size:98px;
@@ -373,7 +373,7 @@ audio{
     display: flex;
     align-items: center;
     padding: 10px;
-
+    
 }
 .loader .stroke{
     display: block;
